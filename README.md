@@ -27,7 +27,7 @@ This repository provides a template for creating a Telegram bot using asynchrono
 1. Склонируйте репозиторий и перейдите в каталог проекта.
 
    ```
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/your-username/your-repository.git](https://github.com/IUDA194/tg-bot-template/tree/main
    cd your-repository
    ```
 
@@ -41,8 +41,8 @@ This repository provides a template for creating a Telegram bot using asynchrono
 3. Create a new bot on Telegram and obtain the API token.
 3. Создайте нового бота в Telegram и получите API-токен.
 
-4. Rename the `config.example.py` file to `config.py` and replace the placeholder value for the `TOKEN` variable with your Telegram API token.
-4. Переименуйте файл `config.example.py` в `config.py` и замените значение-заполнитель для переменной `TOKEN` своим API-токеном Telegram.
+4. In `config.py` replace the placeholder value for the `TOKEN` variable with your Telegram API token.
+4. В `config.py` и замените значение-заполнитель для переменной `TOKEN` своим API-токеном Telegram.
 
 5. Run the bot using the following command:
 5. Запустите бота с помощью следующей команды:
@@ -65,9 +65,3 @@ Contributions are welcome! If you find any issues or want to add new features, p
 
 Вклады приветствуются! Если вы обнаружили проблему или хотите добавить новые функции, пожалуйста, откройте задачу (issue) или отправьте запрос на включение изменений (pull request).
 
-## License
-## Лицензия
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-Этот проект лицензируется по [лицензии MIT](https://opensource.org/licenses/MIT).
